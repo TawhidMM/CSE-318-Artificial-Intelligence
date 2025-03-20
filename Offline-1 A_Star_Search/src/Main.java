@@ -11,7 +11,7 @@ public class Main {
         System.out.print("grid size :");
         int gridSize = sc.nextInt();
 
-        System.out.println("enter configuration :");
+        System.out.println("enter configuration(use * as blank space) :");
 
         int blankIndex = -1;
         String[] inputConfig = new String[gridSize*gridSize];
