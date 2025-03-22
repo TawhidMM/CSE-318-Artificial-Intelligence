@@ -1,5 +1,5 @@
 # Adversarial Search (Mancala) 
-[Assignment Spec]()
+[Assignment Spec](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-2%20Adversial_Search/Assignment-2-Adversarial-Search.pdf)
 
 This assignment implements a game player which uses adversarial search algorithm 
 to play a two-player game, [Mancala](https://www.mathplayground.com/mancala.html).  
@@ -51,7 +51,7 @@ To clone only this assignment-
 
 
     ```bash
-    git sparse-checkout set "Offline-1 A_Star_Search"
+    git sparse-checkout set "Offline-2 Adversial_Search"
     ```
 
 - Checkout the Files
@@ -60,5 +60,5 @@ To clone only this assignment-
     ```
 - If using ***Intellij***, open the folder as a new project
     ```bash
-    file -> new -> Project from Existing Sources -> select "Offline-1 A_Star_Search"
+    file -> new -> Project from Existing Sources -> select "Offline-2 Adversial_Search"
     ```
