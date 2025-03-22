@@ -1,7 +1,7 @@
 # Decision tree
-[Assignment Spec]()
+[Assignment Spec](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-4%20Decision_Tree/CSE318_%20Assignment%204.pdf)
 
-This assignment implements a decision-tree algorithm for car evaluation using the [dataset]().
+This assignment implements a decision-tree algorithm for car evaluation using the [dataset](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/tree/main/Offline-4%20Decision_Tree/data).
 
 ### Attribute Selection Methods
 
@@ -19,7 +19,7 @@ The decision tree selects attributes based on:
 For each dataset, the algorithm selects either the best attribute or a random attribute from the top three.
 
 ## Train-Test Report
-The [report]() contains-
+The [report](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-4%20Decision_Tree/2005036_decision_tree_report.pdf) contains-
 - Accuracy for each iteration
 - Average accuracy
 - Standard deviation of accuracies
@@ -48,8 +48,6 @@ To clone only this assignment-
 
 
 - Specify the Folder
-
-
     ```bash
     git sparse-checkout set "Offline-4 Decision_Tree"
     ```
