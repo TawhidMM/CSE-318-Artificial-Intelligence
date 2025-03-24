@@ -42,3 +42,23 @@ To clone only this assignment-
     ```bash
     file -> new -> Project from Existing Sources -> select "Offline-1 A_Star_Search"
     ```
+## Input-Output  
+
+### Input  
+From console-
+
+- Dimension of the grid.
+- Initial state. The blank spot must be represented as `*`.
+
+![Input Example](output_image.png)  
+
+
+### Output  
+Prints in the console for each heuristic-
+
+- Number of expanded nodes
+- Number of explored nodes
+- Number of optimal moves to reach the goal state.
+- Grid state after each move.  
+
+![Output Example](output_image.png)  

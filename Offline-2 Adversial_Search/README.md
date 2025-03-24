@@ -62,3 +62,22 @@ To clone only this assignment-
     ```bash
     file -> new -> Project from Existing Sources -> select "Offline-2 Adversial_Search"
     ```
+
+## Input-Output  
+
+### Input  
+The number of games to be played.  
+
+### Output  
+For each game, the program prints:  
+
+- The board state after each move.  
+- The final score.  
+- The winner.  
+
+At the end, it also prints:  
+
+- The number of games played using each heuristic.  
+- The number of games won by each heuristic.  
+
+![Output Example](output_image.png)  

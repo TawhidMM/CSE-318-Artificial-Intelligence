@@ -68,6 +68,8 @@ To clone only this assignment-
 
 ## Output
 For each [.tsp](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/tree/main/Offline-3%20Local_Search/TSP_benchmark_data) file, `final cost`, `constructive`, `perturbative` and `total` running time is printed in the console.   
+
+
 ![Example Output](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-3%20Local_Search/output_image/sample-output.png)
 
 

@@ -60,3 +60,22 @@ To clone only this assignment-
     ```bash
     file -> new -> Project from Existing Sources -> select "Offline-4 Decision_Tree"
     ```
+
+## Input-Output
+
+### Input
+The `car.data` file containing attribute-class values.
+
+### Output  
+The program prints the average accuracy for both ***Gini Impurity*** and ***Information Gain***, considering two selection strategies:  
+
+- Choosing the best attribute.  
+- Selecting a random attribute from the top three best options.  
+
+![sample output]()
+
+Additionally, it generates the following files and sub-folders inside the `train-test results` folder:  
+
+- **accuracies.csv**: Contains accuracy for each iteration across all combinations of `attribute selection methods` and `selection strategies`.  
+- **treeInfo.csv**: Records tree depth, number of leaf nodes, and total number of nodes for each combination.  
+- **Gini Impurity 1**: A folder containing a CSV file for each iteration (random train-test split) when selecting the best attribute using Gini Impurity. Each CSV includes actual class values and predicted class values for every row in the test dataset.  

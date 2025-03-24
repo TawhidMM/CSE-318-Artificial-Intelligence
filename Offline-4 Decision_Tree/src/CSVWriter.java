@@ -11,6 +11,10 @@ public class CSVWriter {
     }
 
     void writePredictionsToCsv(List<Object> yTrue, List<Object> yPred, String fileName) {
+        // adding the base directory name
+        fileName = CSV_FOLDER + "/" + fileName;
+
+        // creating subdirectory
         new File(CSV_FOLDER + "/" + fileName).getParentFile().mkdir();
 
         try (FileWriter writer = new FileWriter(fileName)) {
