@@ -50,7 +50,7 @@ From console-
 - Dimension of the grid.
 - Initial state. The blank spot must be represented as `*`.
 
-![Input Example](output_image.png)  
+![Input Example](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-1%20A_Star_Search/images/sample-input.png)  
 
 
 ### Output  
@@ -61,4 +61,4 @@ Prints in the console for each heuristic-
 - Number of optimal moves to reach the goal state.
 - Grid state after each move.  
 
-![Output Example](output_image.png)  
+![Output Example](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-1%20A_Star_Search/images/sample-output.png)  

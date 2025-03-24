@@ -80,4 +80,4 @@ At the end, it also prints:
 - The number of games played using each heuristic.  
 - The number of games won by each heuristic.  
 
-![Output Example](output_image.png)  
+![Output Example](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-2%20Adversial_Search/images/sample-output.png)  

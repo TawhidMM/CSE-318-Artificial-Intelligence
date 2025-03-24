@@ -72,7 +72,7 @@ The program prints the average accuracy for both ***Gini Impurity*** and ***Info
 - Choosing the best attribute.  
 - Selecting a random attribute from the top three best options.  
 
-![sample output]()
+![sample output](https://github.com/TawhidMM/CSE-318-Artificial-Intelligence/blob/main/Offline-4%20Decision_Tree/output-image/sample-output.png)
 
 Additionally, it generates the following files and sub-folders inside the `train-test results` folder:  
 
